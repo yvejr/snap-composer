@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8294dd28-09ca-4722-a3c1-5f33cde13f7e" name="snap-composer" url="https://bootcamp-coders.cnm.edu/~yjohnson6/snap-composer">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/yjohnson6/public_html/snap-composer" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
